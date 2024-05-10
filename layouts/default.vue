@@ -19,7 +19,7 @@
           <NuxtLink to="/about">關於我</NuxtLink>
         </li>
         <li>
-        <NuxtLink to="/products">遊戲</NuxtLink>
+        <NuxtLink to="/game">遊戲</NuxtLink>
         </li>
 
       </div>
