@@ -1,3 +1,7 @@
 <template>
-  <UButton>Button</UButton>
+  <div>
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
+  </div>
 </template>
